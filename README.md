@@ -9,6 +9,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevaramanathan&label=Profile%20views&color=0e75b6&style=flat" alt="jeevaramanathan" /> </p>
 
+[![An image of @jeevaramanathan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jeevaramanathan)](https://holopin.io/@jeevaramanathan)
+
 ## 📫 Reach me @
 <a href="https://dev.to/jeevaramanathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/jeevaramanathan" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jeevaramanathan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jeevaramanathan/" height="30" width="40" /></a>
